@@ -273,31 +273,6 @@ flutter run -d chrome
 - ✅ Group order monitoring
 - ✅ Basic analytics and reports
 
-### 🔄 In Progress
-
-- Payment gateway integration (Razorpay/Paytm)
-- Push notifications
-- Advanced analytics
-- Microsoft Graph/Outlook authentication
-
-### 📋 Planned Features
-
-- AI-based demand prediction
-- Smart recommendations
-- Advanced reporting dashboard
-- Inventory management
-- Staff management module
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ### Code Style
 
 - Follow Flutter/Dart style guidelines
@@ -305,17 +280,9 @@ flutter run -d chrome
 - Write meaningful commit messages
 - Document complex logic
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 👥 Team
 
-- **Target Institution**: VIT (Vellore Institute of Technology)
+- **Target Institution**: VIT (Vidyalankar Istitute of Technology)
 - **Project Type**: Campus Canteen Management System
 - **Development**: Student/Academic Project
 
