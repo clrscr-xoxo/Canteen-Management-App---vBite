@@ -1,6 +1,6 @@
 # VIT Smart Canteen System
 
-A comprehensive digital canteen ordering ecosystem for VIT (Vellore Institute of Technology) campus, consisting of a student/staff mobile application and an admin web dashboard.
+A comprehensive digital canteen ordering ecosystem for VIT (Vidyalankar Institute of Technology) campus, consisting of a student/staff mobile application and an admin web dashboard.
 
 ## 📦 Project Structure
 
